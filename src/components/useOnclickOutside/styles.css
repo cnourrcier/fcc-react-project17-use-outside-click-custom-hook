@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.ref-container {
+    background-color: rgb(32, 32, 32);
+    color: white;
+    border-radius: 5px;
+    padding: 20px;
+}
